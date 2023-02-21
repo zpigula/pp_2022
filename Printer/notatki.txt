@@ -1,0 +1,9 @@
+ASA filament flow calibration:
+
+changed extrusion multiplier under filament setting back to 1; befor was 0.924
+
+Filament Temperature Calibration: hard to tell, does not look good - retry, for now optimal tem=245C
+
+Retraction calibration
+under printer settings changed retraction length to 0.7mm after retraction calibration with 245C
+before retraction length was set to 0.5mm
